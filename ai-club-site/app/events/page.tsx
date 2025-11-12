@@ -69,7 +69,7 @@ export default function EventsPage() {
                         Must be a KSU student to participate
                     </p>
                     <p className="text-xl text-ksu-white leading-relaxed max-w-3xl mx-auto">
-                        4 person team maximum
+                        4 people per team maximum
                     </p>
                 </section>
 
@@ -84,27 +84,19 @@ export default function EventsPage() {
 
                 <section className="text-center mt-16 p-6 bg-ksu-gray/20 rounded-xl shadow-inner border border-ksu-white/10">
                     <h2 className="text-3xl font-extrabold text-ksu-white mb-5 tracking-wide">
+                        OwlLife RSVP
+                    </h2>
+                    <p className="text-xl text-ksu-white leading-relaxed max-w-3xl mx-auto">
+                        <a href="https://owllife.kennesaw.edu/event/11885006" className='text-ksu-gold'>OwlLife Link</a>
+                    </p>
+                </section>
+
+                <section className="text-center mt-16 p-6 bg-ksu-gray/20 rounded-xl shadow-inner border border-ksu-white/10">
+                    <h2 className="text-3xl font-extrabold text-ksu-white mb-5 tracking-wide">
                         Join Discord for more information!
                     </h2>
                     <p className="text-xl text-ksu-white leading-relaxed max-w-3xl mx-auto">
                         <a href="https://discord.gg/qSS56d5ZdS" className='text-ksu-gold'>Discord Link</a>
-                    </p>
-                </section>
-                <section className="text-center mt-16 p-6 bg-ksu-gray/20 rounded-xl shadow-inner border border-ksu-white/10">
-                    <h2 className="text-3xl font-extrabold text-ksu-white mb-5 tracking-wide">
-                        Rules
-                    </h2>
-                    <p className="text-xl text-ksu-white leading-relaxed max-w-3xl mx-auto">
-                        Projects must be completed within the hackathon period
-                    </p>
-                    <p className="text-xl text-ksu-white leading-relaxed max-w-3xl mx-auto">
-                        All projects must utilize AI in some capacity
-                    </p>
-                    <p className="text-xl text-ksu-white leading-relaxed max-w-3xl mx-auto">
-                        Must be a KSU student to participate
-                    </p>
-                    <p className="text-xl text-ksu-white leading-relaxed max-w-3xl mx-auto">
-                        4 person team maximum
                     </p>
                 </section>
 
